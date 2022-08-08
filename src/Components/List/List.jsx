@@ -1,8 +1,12 @@
 import React from 'react'
 
 
-const List =()=>{
-    <div>Header</div>
+const List =()=>{ 
+    return (
+        <h1>List</h1>
+
+        
+    );
 }
 
 export default List

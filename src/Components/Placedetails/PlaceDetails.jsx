@@ -2,7 +2,10 @@ import React from 'react'
 
 
 const PlaceDetials =()=>{
-    <div>PlaceDetials</div>
+    return (
+        <h1>PlaceDetails</h1>
+    )
+    
 }
 
 export default PlaceDetials
